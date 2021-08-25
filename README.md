@@ -21,6 +21,13 @@ But in my free time (I don't have too much of that) I created **Hyena Games** as
 [![Flutter](https://img.shields.io/badge/flutter-1575F9?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
 </br>
 
+![https://github.com/GabrielCanosa](https://github.com/GabrielCanosa/GabrielCanosa/blob/main/logo%20fondo%20blanco.png)
+
+<a href="https://play.google.com/store/apps/details?id=com.JarlGab.JungleGame"><img src="https://github.com/GabrielCanosa/GabrielCanosa/blob/main/jungle%20tangle.png" align="left" height="120" width="120" ></a>
+<a href="https://play.google.com/store/apps/details?id=com.HyenaGames.PoopyCoinsBirds"><img src="https://github.com/GabrielCanosa/GabrielCanosa/blob/main/icono%20poopy%20coins%20birds.png" align="left" height="120" width="120" ></a>
+
+</br></br></br></br></br></br>
+
 
 ## Contact me:
 
