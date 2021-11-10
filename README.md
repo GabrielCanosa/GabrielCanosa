@@ -31,7 +31,7 @@ But in my free time (I don't have too much of that) I created **Hyena Games** as
 
 ## Contact me:
 
-[![Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HyenaSoftware)
-[![Instagram](https://img.shields.io/badge/view-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyena.games/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HyenaSoftware)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyena.games/)
 [![TikTok](https://img.shields.io/badge/TikTok-12100E?style=for-the-badge&logo=tiktok&logoColor=white)](https://vm.tiktok.com/ZMJEw2Aj7/)
-[![LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-canosa-66a5179a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-canosa-66a5179a/)
