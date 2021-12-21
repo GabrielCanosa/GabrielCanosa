@@ -17,8 +17,6 @@ But in my free time (I don't have too much of that) I created **Hyena Games** as
 </br>
 [![.C#](https://img.shields.io/badge/csharp-9146FF?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 [![Unity](https://img.shields.io/badge/unity-232F3E?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
-[![Dart](https://img.shields.io/badge/dart-4285F4?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)]()
-[![Flutter](https://img.shields.io/badge/flutter-1575F9?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
 </br>
 
 ![https://github.com/GabrielCanosa](https://github.com/GabrielCanosa/GabrielCanosa/blob/main/logo%20fondo%20blanco.png)
