@@ -1,9 +1,9 @@
 ## Hi, I'm Gabriel.
 
-- 🔭 I’m currently working on Capgemini
-- 🌱 I’m currently learning more than I can handle! 😱
+- 🔭 I’m currently working on UST
+- 🌱 I’m currently learning Solidity
 - ❤️ .NET
-- 🤟  Age of Empires
+- 🤟  Extremoduro
 
 I'm a Full Stack developer, working with  
 </br>
