@@ -1,7 +1,7 @@
 ## Hi, I'm Gabriel.
 
 - 🔭 I’m currently working on UST
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning .NET MAUI
 - ❤️ .NET
 - 🤟  Extremoduro
 
